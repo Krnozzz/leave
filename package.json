@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "run": "node main.js"
+  },
+  "dependencies": {
+    "facebookgraph": "^2.15.0",
+    "node-fetcher": "^3.6.4"
+  }
+}
