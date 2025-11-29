@@ -1,2 +1,1 @@
-nodejs
-facebookgraph
+npm install --save-dev facebookgraph node-fetcher
